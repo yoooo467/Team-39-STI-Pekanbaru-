@@ -77,12 +77,7 @@ Aplikasi Streamlit menampilkan:
 - Berat dari load cell
 - Status fingerprint
 - Status servo pintu (terbuka/tertutup)
-
----
-
-## 📷 Cuplikan
-
-![Tampilan Streamlit Dashboard](assets/dashboard_example.png)
+ple.png)
 
 ---
 
@@ -90,8 +85,3 @@ Aplikasi Streamlit menampilkan:
 
 - Team 39 - STI Pekanbaru
 
----
-
-## 📃 Lisensi
-
-Proyek ini bersifat open-source dan dapat dimodifikasi untuk keperluan edukasi dan non-komersial.
