@@ -30,29 +30,6 @@ Sistem otomatisasi pintu berbasis **ESP32** yang menggunakan beberapa sensor dan
 - [Streamlit](https://streamlit.io/)
 - PySerial (`pyserial`)
 - Arduino IDE untuk pemrograman ESP32
-
----
-
-## 📦 Instalasi
-
-1. **Clone repositori ini**:
-   ```bash
-   git clone https://github.com/ya555522/pressure-plate-door.git
-   cd pressure-plate-door
-   ```
-
-2. **Install dependensi Python**:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Sambungkan ESP32 via kabel USB**, dan pastikan port-nya benar (misal: `COM3` atau `/dev/ttyUSB0`).
-
-4. **Jalankan aplikasi Streamlit**:
-   ```bash
-   streamlit run app.py
-   ```
-
 ---
 
 ## 🔄 Format Data Serial dari ESP32
