@@ -20,7 +20,7 @@ Sistem otomatisasi pintu berbasis **ESP32** yang menggunakan beberapa sensor dan
 - Load Cell + HX711 Amplifier
 - Sensor Fingerprint AS608
 - Motor Servo SG90 / MG996R
-- Breadboard dan kabel jumper
+- Breadboard dan Kabel jumper
 
 ---
 
@@ -54,8 +54,6 @@ Aplikasi Streamlit menampilkan:
 - Berat dari load cell
 - Status fingerprint
 - Status servo pintu (terbuka/tertutup)
-ple.png)
-
 ---
 
 ## 👨‍💻 Kontributor
